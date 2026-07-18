@@ -7,6 +7,8 @@
 - **Presentation:** 2026.07.15
 - **Venue:** 아난티 앳 부산 코브
 - **Session:** 숭실대학교 차세대반도체학과 특별세션 1
+- **Session Chairs:** 문지욱, 김성식
+- **Presentation Order:** 3
 - **Role:** Presenter
 - **Status:** Complete
 
@@ -23,8 +25,10 @@ Presented a TCAD-based Dual-Metal Gate MOSFET feasibility study at the 2026 Summ
 **Dual Metal Gate를 이용한 미세 MOSFET의 SCE 및 Leakage Current 개선 효과 분석**
 
 - 발표자: 이선재, 주상현
-- 발표 일시: 2026년 7월 15일
+- 발표 일시: 2026년 7월 15일 16:00–17:30
 - 세션: 숭실대학교 차세대반도체학과 특별세션 1
+- 발표 순서: 3번
+- 좌장: 문지욱, 김성식
 - 장소: G층 크루즈 그랜드 볼룸 A
 
 연구의 상세 구조, 시뮬레이션 과정 및 결과는 아래 프로젝트 페이지에서 확인할 수 있습니다.
@@ -42,9 +46,32 @@ Presented a TCAD-based Dual-Metal Gate MOSFET feasibility study at the 2026 Summ
 - 기존 Dual-Metal Gate 연구와의 연결성 및 공정 현실성 재평가
 - 후속 결과를 차세대반도체 경진대회 연구 주제로 발전시키는 방안 논의
 
+## Required Public Assets
+
+이미지와 프로그램북은 GitHub 웹에서 아래 경로와 파일명으로 직접 업로드합니다. 같은 파일명으로 업로드하면 HTML 수정 없이 자동 반영됩니다.
+
+### Images
+
+```text
+assets/images/ise-logo.png
+assets/images/presentation-stage.jpg
+assets/images/presentation-closeup.jpg
+assets/images/presentation-title-slide.jpg
+assets/images/conference-badge.jpg
+```
+
+### Program Book
+
+```text
+documents/2026-ise-summer-program-book.pdf
+```
+
+이미지가 업로드되기 전에는 깨진 이미지 아이콘 대신 안내용 placeholder가 표시됩니다.
+
 ## Public Links
 
 - [Published Experience Page](https://jujushmaterial.github.io/2026-Summer-Annual-Conference-of-ISE/)
+- [프로그램북 다운로드](documents/2026-ise-summer-program-book.pdf)
 - [반도체공학회 공식 홈페이지](https://www.theise.org/)
 - [Main Portfolio Experience](https://jujushmaterial.github.io/experience.html)
 
@@ -58,10 +85,15 @@ Presented a TCAD-based Dual-Metal Gate MOSFET feasibility study at the 2026 Summ
 │  ├─ css/
 │  │  └─ style.css
 │  └─ images/
+│     ├─ README.md
 │     ├─ ise-logo.png
-│     ├─ presentation-closeup.jpg
 │     ├─ presentation-stage.jpg
+│     ├─ presentation-closeup.jpg
+│     ├─ presentation-title-slide.jpg
 │     └─ conference-badge.jpg
+├─ documents/
+│  ├─ README.md
+│  └─ 2026-ise-summer-program-book.pdf
 └─ .github/
    └─ workflows/
       └─ pages.yml
