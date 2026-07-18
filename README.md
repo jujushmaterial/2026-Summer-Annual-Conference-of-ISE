@@ -42,11 +42,11 @@ Presented a TCAD-based Dual-Metal Gate MOSFET feasibility study at the 2026 Summ
 - 기존 Dual-Metal Gate 연구와의 연결성 및 공정 현실성 재평가
 - 후속 결과를 차세대반도체 경진대회 연구 주제로 발전시키는 방안 논의
 
-## Public Materials
+## Public Links
 
 - [Published Experience Page](https://jujushmaterial.github.io/2026-Summer-Annual-Conference-of-ISE/)
-- [2026 하계종합학술대회 프로그램북](assets/docs/2026-ise-summer-conference-program.pdf)
 - [반도체공학회 공식 홈페이지](https://www.theise.org/)
+- [Main Portfolio Experience](https://jujushmaterial.github.io/experience.html)
 
 ## Repository Structure
 
@@ -57,13 +57,10 @@ Presented a TCAD-based Dual-Metal Gate MOSFET feasibility study at the 2026 Summ
 ├─ assets/
 │  ├─ css/
 │  │  └─ style.css
-│  ├─ docs/
-│  │  └─ 2026-ise-summer-conference-program.pdf
 │  └─ images/
 │     ├─ ise-logo.png
 │     ├─ presentation-closeup.jpg
 │     ├─ presentation-stage.jpg
-│     ├─ presentation-title-slide.jpg
 │     └─ conference-badge.jpg
 └─ .github/
    └─ workflows/
